@@ -1,0 +1,4 @@
+.nextflow*
+work/
+reads/
+sample_sheet2.csv
